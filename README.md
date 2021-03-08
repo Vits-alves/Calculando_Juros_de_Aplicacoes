@@ -1,2 +1,2 @@
-# Calculando_Juros_de_Aplicacoes
+# Calculando Juros de Aplicacoes
  Cáculo de juros em cima da aplicação feita em determinada conta.
