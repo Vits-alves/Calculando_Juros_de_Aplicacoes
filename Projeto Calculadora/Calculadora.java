@@ -52,7 +52,7 @@ public class Calculadora {
 					}	
 }
 			}
-			//MOSTRAR A MINHA CLASSIFICAÇÃO.	
+//MOSTRAR A MINHA CLASSIFICAÇÃO.	
 			for (int i=0; i < NomeCliente.length;i++) {
 				JOptionPane.showMessageDialog(null, "Cliente: "+NomeCliente[i]+ "\nNúmeroda conta: "+NumeroConta[i]+"\nValor Aplicado: "+
 ValorAplicado[i],"INFORMAÇÕES", JOptionPane.INFORMATION_MESSAGE);
@@ -72,7 +72,7 @@ ValorAplicado[i],"INFORMAÇÕES", JOptionPane.INFORMATION_MESSAGE);
 					Exibir(Num,Nome,Valor);
 		} 	
 			}
-		//SE NÃO ENCONTRAR O NÚMERO DA CONTA
+//SE NÃO ENCONTRAR O NÚMERO DA CONTA
 		if (Nome == null) {
 			Erro = "O CLIENTE NÃO ESTÁ CADASTRADO";
 			ExibirErro(Erro);
